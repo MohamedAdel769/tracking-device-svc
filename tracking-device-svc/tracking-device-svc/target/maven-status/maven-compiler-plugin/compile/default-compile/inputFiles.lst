@@ -1,0 +1,12 @@
+E:\tracking-device-svc\tracking-device-svc\src\main\java\com\IoT\tracking\device\boundary\TrackingDeviceResource.java
+E:\tracking-device-svc\tracking-device-svc\src\main\java\com\IoT\tracking\device\config\exceptions\BusinessException.java
+E:\tracking-device-svc\tracking-device-svc\src\main\java\com\IoT\tracking\device\control\DeviceConfigurationControl.java
+E:\tracking-device-svc\tracking-device-svc\src\main\java\com\IoT\tracking\device\boundary\TrackingDeviceRepository.java
+E:\tracking-device-svc\tracking-device-svc\src\main\java\com\IoT\tracking\device\entity\enums\DeviceStatus.java
+E:\tracking-device-svc\tracking-device-svc\src\main\java\com\IoT\tracking\device\TrackingDeviceSvcApplication.java
+E:\tracking-device-svc\tracking-device-svc\src\main\java\com\IoT\tracking\device\entity\dto\TrackingDeviceDto.java
+E:\tracking-device-svc\tracking-device-svc\src\main\java\com\IoT\tracking\device\entity\TrackingDevice.java
+E:\tracking-device-svc\tracking-device-svc\src\main\java\com\IoT\tracking\device\boundary\DeviceConfigurationResource.java
+E:\tracking-device-svc\tracking-device-svc\src\main\java\com\IoT\tracking\device\entity\dto\TextResponse.java
+E:\tracking-device-svc\tracking-device-svc\src\main\java\com\IoT\tracking\device\control\TrackingDeviceControl.java
+E:\tracking-device-svc\tracking-device-svc\src\main\java\com\IoT\tracking\device\config\exceptions\GlobalExceptionHandler.java

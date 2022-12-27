@@ -1,0 +1,13 @@
+com\IoT\tracking\device\config\exceptions\BusinessException.class
+com\IoT\tracking\device\config\exceptions\GlobalExceptionHandler.class
+com\IoT\tracking\device\TrackingDeviceSvcApplication.class
+com\IoT\tracking\device\boundary\DeviceConfigurationResource.class
+com\IoT\tracking\device\control\DeviceConfigurationControl.class
+com\IoT\tracking\device\entity\dto\TrackingDeviceDto.class
+com\IoT\tracking\device\entity\TrackingDevice.class
+com\IoT\tracking\device\boundary\TrackingDeviceResource.class
+com\IoT\tracking\device\control\TrackingDeviceControl.class
+com\IoT\tracking\device\entity\enums\DeviceStatus.class
+com\IoT\tracking\device\boundary\TrackingDeviceRepository.class
+com\IoT\tracking\device\entity\dto\TextResponse.class
+com\IoT\tracking\device\entity\TrackingDevice$TrackingDeviceBuilder.class
